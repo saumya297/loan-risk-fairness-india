@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "applicant": 1,
+    "risk_tier": "Low Risk",
+    "gender": "Male",
+    "area": "Rural",
+    "style": "standard",
+    "explanation": "After careful assessment of your loan application, we regret to inform you that your application has been classified as requiring further review due to the absence of a credit history, which is a critical factor in our evaluation process. Additionally, your current income level relative to the requested loan amount presents some concerns for our underwriting team. We strongly recommend building your credit history by taking a small secured loan or credit card, and reapplying in 6-12 months — this single step could significantly improve your approval chances.",
+    "word_count": 89,
+    "avg_word_length": 5.2
+  },
+  {
+    "applicant": 1,
+    "risk_tier": "Low Risk",
+    "gender": "Male",
+    "area": "Rural",
+    "style": "simplified",
+    "explanation": "We looked at your loan request and found some things we need to talk about. The main problem is that you have no record of borrowing and paying back money before, which makes it hard for us to say yes. Our tip: try getting a small loan from your local bank first, pay it back on time, and then apply again — that will help a lot next time.",
+    "word_count": 72,
+    "avg_word_length": 4.1
+  },
+  {
+    "applicant": 2,
+    "risk_tier": "Medium Risk",
+    "gender": "Male",
+    "area": "Semiurban",
+    "style": "standard",
+    "explanation": "We are pleased to inform you that your loan application has been approved with a moderate confidence level of 56.5%. Your strong credit repayment history was the most positive factor in this decision, demonstrating your reliability as a borrower. However, please note that the loan amount requested is on the higher side relative to your income, so we recommend ensuring your monthly EMI does not exceed 40% of your take-home income to maintain financial stability.",
+    "word_count": 78,
+    "avg_word_length": 5.4
+  },
+  {
+    "applicant": 2,
+    "risk_tier": "Medium Risk",
+    "gender": "Male",
+    "area": "Semiurban",
+    "style": "simplified",
+    "explanation": "Good news — your loan has been approved! The main reason we said yes is that you have a good history of paying back money you borrowed before. Just make sure the monthly payment you have to make is not too much for your budget — if it feels like a stretch, consider borrowing a smaller amount.",
+    "word_count": 58,
+    "avg_word_length": 4.0
+  },
+  {
+    "applicant": 3,
+    "risk_tier": "High Risk",
+    "gender": "Female",
+    "area": "Semiurban",
+    "style": "standard",
+    "explanation": "Your loan application has been approved; however, our model has flagged this as a higher risk case primarily because the loan amount of ₹182 thousand is significantly large relative to your annual income of ₹4,180. Your credit history has worked in your favour and was a key positive factor in this decision. We strongly advise maintaining timely EMI payments throughout the loan tenure, as any missed payments could affect your credit score and future borrowing capacity.",
+    "word_count": 76,
+    "avg_word_length": 5.6
+  },
+  {
+    "applicant": 3,
+    "risk_tier": "High Risk",
+    "gender": "Female",
+    "area": "Semiurban",
+    "style": "simplified",
+    "explanation": "Your loan has been approved, but we want to be honest — the amount you are borrowing is quite large compared to your income, so please be careful. The good thing is you have paid back loans properly before, which helped your application. Please make sure to pay every monthly instalment on time — missing even one payment can cause problems for you later.",
+    "word_count": 63,
+    "avg_word_length": 4.2
+  }
+]
