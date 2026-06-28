@@ -1,0 +1,8 @@
+feature,psi,status
+Applicant Income,0.05369995690218769,✅ Stable
+Loan Amount,0.3641426668184563,❌ Unstable
+Total Income,0.05925363724369892,✅ Stable
+Loan to Income Ratio,0.1334834025456124,⚠️  Monitor
+Coapplicant Income,0.060878304636238736,✅ Stable
+Income per Dependent,0.1459734084085705,⚠️  Monitor
+Loan Term,0.06795047917885211,✅ Stable
